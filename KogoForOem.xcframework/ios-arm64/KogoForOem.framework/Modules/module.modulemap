@@ -1,0 +1,6 @@
+framework module KogoForOem {
+  umbrella header "KogoForOem.h"
+  export *
+
+  module * { export * }
+}
