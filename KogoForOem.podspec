@@ -23,6 +23,9 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git" }
   # spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git", :tag => "#{spec.version}" }
 
+  spec.vendored_frameworks = 'KogoForOem.xcframework'
+
+
   spec.dependency 'Apollo'
   spec.dependency 'MapplsAPICore', '1.0.6'
   spec.dependency 'MapplsAPIKit', '2.0.14'

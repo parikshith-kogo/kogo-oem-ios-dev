@@ -5,9 +5,8 @@
 ### What is this repository for? ###
 Development SDK for KOGO OEM framework
 
-* Quick summary
-* Version
-    : KOGO-TVS 1.5
+* Quick summary & initialization guide
+* Version : 0.0.1
 
 # Release Notes # 
 * Version 0.0.1 - Initial deployment
