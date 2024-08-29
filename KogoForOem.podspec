@@ -5,7 +5,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "KogoForOem"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "KOGO SDK for OEM partners"
 
   spec.description  = 'KOGO iOS SDK for OEM partners. For development purpose only'
