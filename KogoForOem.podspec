@@ -25,15 +25,8 @@ Pod::Spec.new do |spec|
   spec.source_files  = "Headers/*.{h,m}", "KogoForOem.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
 
   spec.framework  = "KogoForOem"
-  # spec.frameworks = "SomeFramework", "AnotherFramework"
-
-  # spec.library   = "iconv"
-  # spec.libraries = "iconv", "xml2"
 
   spec.vendored_frameworks = 'KogoForOem.xcframework'
-
-  # spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  # spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   spec.dependency 'Apollo'
   spec.dependency 'MapplsAPICore', '1.0.6'
