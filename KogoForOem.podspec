@@ -28,6 +28,7 @@ Pod::Spec.new do |spec|
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
+  spec.public_header_files = 'Headers/KogoForOem.h'
 
   spec.dependency 'Apollo'
   spec.dependency 'MapplsAPICore', '1.0.6'
