@@ -6,9 +6,9 @@ Pod::Spec.new do |spec|
 
   spec.name         = "KogoForOem"
   spec.version      = "0.0.1"
-  spec.summary      = "KOGO iOS SDK for OEM partners"
+  spec.summary      = "KOGO SDK for OEM partners"
 
-  spec.description  = "KOGO iOS SDK for OEM partners for development only"
+  spec.description  = 'KOGO iOS SDK for OEM partners. For development purpose only'
 
   spec.homepage     = "https://github.com/parikshith-kogo/kogo-oem-ios-dev"
 
@@ -16,19 +16,24 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "Parikshith" => "parikshith@kogo.ai" }
 
-  spec.platform     = :ios
-
-  spec.ios.deployment_target = '12.0'
+  # spec.platform     = :ios, '12.0'
+  spec.ios.deployment_target = "12.0"
 
   spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git" }
   # spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git", :tag => "#{spec.version}" }
 
-  spec.vendored_frameworks = 'KogoForOem.xcframework/ios-arm64/KogoForOem.framework'
+  spec.source_files  = "Headers/*.{h,m}", "KogoForOem.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
+
+  spec.framework  = "KogoForOem"
+  # spec.frameworks = "SomeFramework", "AnotherFramework"
+
+  # spec.library   = "iconv"
+  # spec.libraries = "iconv", "xml2"
+
+  spec.vendored_frameworks = 'KogoForOem.xcframework'
 
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-
-  spec.public_header_files = 'Headers/KogoForOem.h'
 
   spec.dependency 'Apollo'
   spec.dependency 'MapplsAPICore', '1.0.6'
@@ -36,5 +41,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'MapplsMap', '5.13.8'
   spec.dependency 'MapplsIntouchCore', '1.0.0.beta.5'
   spec.dependency 'MapplsIntouch'
+
+  # spec.requires_arc = true
 
 end
