@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		xxwcOCnvyVGYoBGvXi+N4CI8oTQ=
+		Xg1sJ8MtHYChVO2JnfntkekpAm4=
 		</data>
 		<key>Figtree-Black.ttf</key>
 		<data>
@@ -56,37 +56,29 @@
 		<data>
 		IsKjvat2tmmPlw3xrq/n2UW0CG0=
 		</data>
-		<key>Headers/KogoForOem.h</key>
-		<data>
-		KZMgtv3fpl06VpcnaECYBfUkW0M=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		IZXDhso394g1KYjAEHhvSf5ni4E=
+		jN+s9RGawyZriQNMzD1cdongmH8=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lybhW8dPrOXSnY1fmZ6x1+zffLk=
+		lPxU1kIbmIEMQfS2DZWAuz67eDA=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BBQHToXM8/T2gUdErtYaF3OKpD4=
+		7x6BZ+e7JDveeH9r4J8QRw2FFTk=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		MYrUM3Rz7ja9uN2Axu1c7J9uN0A=
+		6LtQ2wYw7dNUbtdnJgZRdFKw8tQ=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BBQHToXM8/T2gUdErtYaF3OKpD4=
+		7x6BZ+e7JDveeH9r4J8QRw2FFTk=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BGkngnuL39oPcfJIeTrPIOEGhPQ=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		hj6EUfbohzZEGNXaDpYXMllQPHA=
+		kgFOEgmFLXTEtCUZdQnc9cs0RIw=
 		</data>
 		<key>TripIteration.storyboardc/Info.plist</key>
 		<data>
@@ -471,10 +463,6 @@
 		<key>hn.png</key>
 		<data>
 		A8NC8oUXEhBG/8gxPLo+IA64tyg=
-		</data>
-		<key>home.svg</key>
-		<data>
-		UElES9CjRsWw1sLwNgSnV6wHVF8=
 		</data>
 		<key>hr.png</key>
 		<data>
@@ -1098,7 +1086,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XXy7++hne3bZwI2+ceatLzSIbNxmWViRtAcd5p4BJU8=
+			0Bj8iRUyk9oj+loNnowLckg80ybE+kOfbwgfxjdNIrQ=
 			</data>
 		</dict>
 		<key>Figtree-Black.ttf</key>
@@ -1178,53 +1166,39 @@
 			4sHhECWM6sVHC+lx+aM5H2QuLOwFBJJumoHgOrjunlY=
 			</data>
 		</dict>
-		<key>Headers/KogoForOem.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F/j3Mf1zvDtxXA4ywSwhWpbGW9WMvem5yUs/wL5aud0=
-			</data>
-		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KgEPJqMgyLdpLMQPom5hE4I8OG0B8e/ECr2A7eYjMMU=
+			j75LhCjbgtqKbYpZLo5NctOvsl72vG9b8GglBh1A4io=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mw5oHWfI7f/DXBRhl/whQSFRpIUlUXKsmVQDnO9Wy7M=
+			3jvW3Ed4fruLqsjJcKkJxYRAqnX/OFY+odqbg+AJxWk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4myONwOq9bO31w1Or6eGfrKvle8r9WYGk7SoC/UXwXc=
+			mkGIq3xHP+kD75pTt42hq4xOHMqnXUSoww1qMctvE8U=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mw5oHWfI7f/DXBRhl/whQSFRpIUlUXKsmVQDnO9Wy7M=
+			3jvW3Ed4fruLqsjJcKkJxYRAqnX/OFY+odqbg+AJxWk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9JS1xwrSJkSPJQ8nPTs7+bdii+3b+buzvwp+f2socA=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oxlMlXdVJ6gSPFXrKaVtuDzOM1QcFSQJ89b/b5sIAfI=
+			kummlQolLzXNW5aoqHHdBICvjXYmZaASNonaHvP9wtA=
 			</data>
 		</dict>
 		<key>TripIteration.storyboardc/Info.plist</key>
@@ -1897,13 +1871,6 @@
 			<key>hash2</key>
 			<data>
 			QJOZXsdsLrICAQDkO4yQu0VN48PrQqfSxZUrtFccE/A=
-			</data>
-		</dict>
-		<key>home.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ND2Yixb/CJrIoaI2MmwOAn5rrNZ479suTi2eZlsN6hw=
 			</data>
 		</dict>
 		<key>hr.png</key>

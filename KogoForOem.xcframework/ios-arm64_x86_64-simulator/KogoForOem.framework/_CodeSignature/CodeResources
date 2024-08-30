@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		xxwcOCnvyVGYoBGvXi+N4CI8oTQ=
+		Xg1sJ8MtHYChVO2JnfntkekpAm4=
 		</data>
 		<key>Figtree-Black.ttf</key>
 		<data>
@@ -56,57 +56,49 @@
 		<data>
 		IsKjvat2tmmPlw3xrq/n2UW0CG0=
 		</data>
-		<key>Headers/KogoForOem.h</key>
-		<data>
-		KZMgtv3fpl06VpcnaECYBfUkW0M=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		ftIp8xBgVi6SX1rR2V9IN7GNm6k=
+		q8K9kaMfzmiVGMB/3Yur16Mrv5s=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9ONaFx2yh4kNDznqnigQgjgq/s0=
+		VS2R11IW7GFf47Mp29HW10lwjgs=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Fc8xAbRi4WlgB9t/zWJC9dGsuEk=
+		NCLT24fD2UaogkNKwV7LfJHGEsM=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ng+xplYwdSKvpjrAWpGb/3HDlso=
+		/ok5LZ2d3jk1e+Ze8zB6jJ3IaJU=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Fc8xAbRi4WlgB9t/zWJC9dGsuEk=
+		NCLT24fD2UaogkNKwV7LfJHGEsM=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VF6GXXgYqGmxSgtqn2JJ74Sh3w0=
+		kSDXKQwht6nmcj7qgAujUVFNB/w=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9ONaFx2yh4kNDznqnigQgjgq/s0=
+		VS2R11IW7GFf47Mp29HW10lwjgs=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/62ir8URQ0B+D16usSMvIe0veuM=
+		M0V800r8+L/PJuv1fv4jVymdZMw=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fd6elAIVL6TLl2+AT6S9LOR509U=
+		Xz+RuL3xGJKQIF7K/jPprOPkkBQ=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/62ir8URQ0B+D16usSMvIe0veuM=
+		M0V800r8+L/PJuv1fv4jVymdZMw=
 		</data>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rKLCmI6O55lqJs+evDJTVzUQsPk=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		hj6EUfbohzZEGNXaDpYXMllQPHA=
+		tJWZ9aPH/0TyS3UYZPLoD/01XlU=
 		</data>
 		<key>TripIteration.storyboardc/Info.plist</key>
 		<data>
@@ -491,10 +483,6 @@
 		<key>hn.png</key>
 		<data>
 		A8NC8oUXEhBG/8gxPLo+IA64tyg=
-		</data>
-		<key>home.svg</key>
-		<data>
-		UElES9CjRsWw1sLwNgSnV6wHVF8=
 		</data>
 		<key>hr.png</key>
 		<data>
@@ -1118,7 +1106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XXy7++hne3bZwI2+ceatLzSIbNxmWViRtAcd5p4BJU8=
+			0Bj8iRUyk9oj+loNnowLckg80ybE+kOfbwgfxjdNIrQ=
 			</data>
 		</dict>
 		<key>Figtree-Black.ttf</key>
@@ -1198,88 +1186,74 @@
 			4sHhECWM6sVHC+lx+aM5H2QuLOwFBJJumoHgOrjunlY=
 			</data>
 		</dict>
-		<key>Headers/KogoForOem.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F/j3Mf1zvDtxXA4ywSwhWpbGW9WMvem5yUs/wL5aud0=
-			</data>
-		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojBQgn4b54X4W7NAfrIKaJoFb8ujcnlatNT7wbbmy08=
+			HJxmYylyF3bUl7e2MYWfdTqHbcQfFZlKJlacnr1m/YU=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUW1DWwcoUXO1LlhqJixGt1odlEDi7sictO7uchxFYc=
+			5w1dnw6GaHJ74u/rl0aEJDh/lpsnzYCDLaiOtMfttHk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vp9nOvnNi/AB9T8WlUqTZ+Awdg5C+JQ4sb0Mq6Jpm5U=
+			XabiiK5g/AnPs+GXSY78XeCx2/CUzMygiYZzBUUvCrs=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUW1DWwcoUXO1LlhqJixGt1odlEDi7sictO7uchxFYc=
+			5w1dnw6GaHJ74u/rl0aEJDh/lpsnzYCDLaiOtMfttHk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wEMwVvL3kDtYqTTXpj+EjKgRq4QQzbbmHmTuu8R/YNE=
+			QR+pHrYFEmVfYz3gK1JR2fEqbSG4sYDDvuqocG13DAc=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojBQgn4b54X4W7NAfrIKaJoFb8ujcnlatNT7wbbmy08=
+			HJxmYylyF3bUl7e2MYWfdTqHbcQfFZlKJlacnr1m/YU=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KKDczJZYp5Iu2OX5TntOj5pqoDVTqdFs6WNOKj+LQ3Q=
+			u9vMxI9tkNSRqZmwcEMOjlKuaXf2W0/Bx1o9iz7v4gk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			714N2qr1rFmPNcjzJxfNf45Xmot1vQSSgbDbG2pOCPM=
+			WPPrYww6pq9VfcwmAceIXsfBADN+XQOFe4BMq6TKSo0=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KKDczJZYp5Iu2OX5TntOj5pqoDVTqdFs6WNOKj+LQ3Q=
+			u9vMxI9tkNSRqZmwcEMOjlKuaXf2W0/Bx1o9iz7v4gk=
 			</data>
 		</dict>
 		<key>Modules/KogoForOem.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dNYSH3xtjH75anCptij8kNp4AA0zcCbUzSDVkbzY3fY=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oxlMlXdVJ6gSPFXrKaVtuDzOM1QcFSQJ89b/b5sIAfI=
+			CrjX7DPAskAuiGFhlPujL7FMljFHWwH82j9y58vdBpA=
 			</data>
 		</dict>
 		<key>TripIteration.storyboardc/Info.plist</key>
@@ -1952,13 +1926,6 @@
 			<key>hash2</key>
 			<data>
 			QJOZXsdsLrICAQDkO4yQu0VN48PrQqfSxZUrtFccE/A=
-			</data>
-		</dict>
-		<key>home.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ND2Yixb/CJrIoaI2MmwOAn5rrNZ479suTi2eZlsN6hw=
 			</data>
 		</dict>
 		<key>hr.png</key>

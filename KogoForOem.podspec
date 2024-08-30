@@ -28,8 +28,8 @@ Pod::Spec.new do |spec|
 
   spec.vendored_frameworks = 'KogoForOem.xcframework'
 
-  spec.dependency 'Apollo'
-  spec.dependency 'Apollo/SQLite'
+  spec.dependency 'Apollo', '1.15.0'
+  spec.dependency 'Apollo/SQLite', '1.15.0'
   spec.dependency 'MapplsAPICore', '1.0.6'
   spec.dependency 'MapplsAPIKit', '2.0.14'
   spec.dependency 'MapplsMap', '5.13.8'
