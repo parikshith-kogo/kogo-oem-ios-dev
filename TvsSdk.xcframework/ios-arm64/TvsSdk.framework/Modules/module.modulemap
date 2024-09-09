@@ -1,0 +1,6 @@
+framework module TvsSdk {
+  umbrella header "TvsSdk.h"
+  export *
+
+  module * { export * }
+}

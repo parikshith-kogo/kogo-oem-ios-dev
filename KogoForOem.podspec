@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "KogoForOem"
+  spec.name         = "TvsSdk"
   spec.version      = "0.0.2"
   spec.summary      = "KOGO SDK for OEM partners"
 
@@ -22,11 +22,11 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git" }
   # spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "Headers/*.{h,m}", "KogoForOem.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
+  spec.source_files  = "Headers/*.{h,m}", "#{spec.name}.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
 
-  spec.framework  = "KogoForOem"
+  spec.framework  = "#{spec.name}"
 
-  spec.vendored_frameworks = 'KogoForOem.xcframework'
+  spec.vendored_frameworks = '#{spec.name}.xcframework'
 
   spec.dependency 'Apollo', '1.15.0'
   spec.dependency 'Apollo/SQLite', '1.15.0'
