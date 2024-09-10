@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		dDWmAd2rmUFDd7132IQAyy7PGaw=
+		vTHPxGz77NLAsZ5sxM3hZ/OofLs=
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Aab9G4Yg+JAAN1yRkXmjbvURUn0=
+		65w6JH1qlx3MzyUTWKOcqgGrLFE=
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		dDWmAd2rmUFDd7132IQAyy7PGaw=
+		vTHPxGz77NLAsZ5sxM3hZ/OofLs=
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		baNL+0NZlzes99XOM61PVwF7s2U=
+		N3CzMqJTP5JPPKFfNzA9wm4Xb+w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1205,7 +1205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOTMiz/CVn9t5JmZrN0XB6D4omvNjaIFS2B/NI/eG2I=
+			ZmmqyeuO2z5f++E5DOAlUWGLmadYzPsxtFrRiWBPBy0=
 			</data>
 		</dict>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1233,14 +1233,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FT2OhDkqerPeEfFBCZl0jphshc2RGC5wOFcbMcSPNuc=
+			4pMfYPtwj835eeb0SKDCIPYwHAaHjhdVPJPVvgLtKU0=
 			</data>
 		</dict>
 		<key>Modules/KogoTvs.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOTMiz/CVn9t5JmZrN0XB6D4omvNjaIFS2B/NI/eG2I=
+			ZmmqyeuO2z5f++E5DOAlUWGLmadYzPsxtFrRiWBPBy0=
 			</data>
 		</dict>
 		<key>Modules/KogoTvs.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1268,7 +1268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hMmDcHiD7ASL2xJvLkMg90vfhOclIL1kWdi1npNZjBE=
+			eWsvMRN9xQjyz9i1wTwgr6G2Tk2NLIen3mfHu+BgbLg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

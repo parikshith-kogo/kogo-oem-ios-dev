@@ -11094,8 +11094,8 @@
       "filePath": "\/Users\/ankursingh\/Documents\/KOGO\/Framwork\/TVS_Framwork\/KogoTvs\/KogoTvs\/KogoForOem\/NetConfig\/AppConfigurations.swift",
       "kind": "BooleanLiteral",
       "offset": 182,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/ankursingh\/Documents\/KOGO\/Framwork\/TVS_Framwork\/KogoTvs\/KogoTvs\/kogoForOemAPI\/Schema\/Objects\/Home_page_tilesData.graphql.swift",
@@ -12577,156 +12577,156 @@
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2095,
-      "length": 12,
-      "value": "\"background\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 2342,
-      "length": 17,
-      "value": "\"hero\/background\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 2522,
-      "length": 16,
-      "value": "\"hero\/oemAccent\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 2705,
-      "length": 18,
-      "value": "\"hero\/primaryText\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 2898,
-      "length": 22,
-      "value": "\"hero\/secondaryAccent\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 3103,
-      "length": 26,
-      "value": "\"hero\/secondaryBackground\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 3300,
-      "length": 20,
-      "value": "\"hero\/secondaryText\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 3501,
-      "length": 25,
-      "value": "\"hero\/textInputContainer\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 3765,
+      "offset": 2175,
       "length": 16,
       "value": "\"tvs\/background\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3943,
+      "offset": 2353,
       "length": 15,
       "value": "\"tvs\/oemAccent\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4124,
+      "offset": 2534,
       "length": 17,
       "value": "\"tvs\/primaryText\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4315,
+      "offset": 2725,
       "length": 21,
       "value": "\"tvs\/secondaryAccent\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4518,
+      "offset": 2928,
       "length": 25,
       "value": "\"tvs\/secondaryBackground\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4713,
+      "offset": 3123,
       "length": 19,
       "value": "\"tvs\/secondaryText\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4912,
+      "offset": 3322,
       "length": 24,
       "value": "\"tvs\/textInputContainer\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5178,
+      "offset": 3588,
       "length": 17,
       "value": "\"kogo\/background\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5358,
+      "offset": 3768,
       "length": 16,
       "value": "\"kogo\/oemAccent\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5541,
+      "offset": 3951,
       "length": 18,
       "value": "\"kogo\/primaryText\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5734,
+      "offset": 4144,
       "length": 22,
       "value": "\"kogo\/secondaryAccent\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5939,
+      "offset": 4349,
       "length": 26,
       "value": "\"kogo\/secondaryBackground\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6136,
+      "offset": 4546,
       "length": 20,
       "value": "\"kogo\/secondaryText\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6337,
+      "offset": 4747,
       "length": 25,
       "value": "\"kogo\/textInputContainer\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4931,
+      "length": 12,
+      "value": "\"background\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5178,
+      "length": 17,
+      "value": "\"hero\/background\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5358,
+      "length": 16,
+      "value": "\"hero\/oemAccent\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5541,
+      "length": 18,
+      "value": "\"hero\/primaryText\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5734,
+      "length": 22,
+      "value": "\"hero\/secondaryAccent\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5939,
+      "length": 26,
+      "value": "\"hero\/secondaryBackground\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6136,
+      "length": 20,
+      "value": "\"hero\/secondaryText\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6337,
+      "length": 25,
+      "value": "\"hero\/textInputContainer\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
@@ -12794,93 +12794,93 @@
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8305,
-      "length": 22,
-      "value": "\"tvs\/feedHeaderAiPost\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 8509,
-      "length": 25,
-      "value": "\"tvs\/feedHeaderTripTrack\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 8692,
-      "length": 13,
-      "value": "\"tvs\/oemLogo\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 8876,
+      "offset": 8225,
       "length": 18,
       "value": "\"feedHeaderAiPost\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9141,
-      "length": 23,
-      "value": "\"kogo\/feedHeaderAiPost\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 9347,
-      "length": 26,
-      "value": "\"kogo\/feedHeaderTripTrack\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 9532,
-      "length": 14,
-      "value": "\"kogo\/oemLogo\""
-    },
-    {
-      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 9800,
+      "offset": 8490,
       "length": 23,
       "value": "\"hero\/feedHeaderAiPost\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10006,
+      "offset": 8696,
       "length": 26,
       "value": "\"hero\/feedHeaderTripTrack\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10191,
+      "offset": 8881,
       "length": 14,
       "value": "\"hero\/oemLogo\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10456,
+      "offset": 9146,
+      "length": 22,
+      "value": "\"tvs\/feedHeaderAiPost\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9350,
+      "length": 25,
+      "value": "\"tvs\/feedHeaderTripTrack\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9533,
+      "length": 13,
+      "value": "\"tvs\/oemLogo\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9797,
       "length": 22,
       "value": "\"ktm\/feedHeaderAiPost\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10660,
+      "offset": 10001,
       "length": 25,
       "value": "\"ktm\/feedHeaderTripTrack\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10843,
+      "offset": 10184,
       "length": 13,
       "value": "\"ktm\/oemLogo\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10451,
+      "length": 23,
+      "value": "\"kogo\/feedHeaderAiPost\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10657,
+      "length": 26,
+      "value": "\"kogo\/feedHeaderTripTrack\""
+    },
+    {
+      "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10842,
+      "length": 14,
+      "value": "\"kogo\/oemLogo\""
     },
     {
       "filePath": "\/Users\/ankursingh\/Library\/Developer\/Xcode\/DerivedData\/KogoTvs-csrqgymaisnmbcdmxgvdzkbuddik\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KogoTvs\/IntermediateBuildFilesPath\/KogoTvs.build\/Release-iphonesimulator\/KogoTvs.build\/DerivedSources\/GeneratedAssetSymbols.swift",

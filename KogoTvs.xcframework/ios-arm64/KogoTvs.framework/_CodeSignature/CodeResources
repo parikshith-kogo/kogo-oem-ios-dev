@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		W0ANbfj7nt8GRBuQh95lUddWypM=
+		cE3mWbVFPk+2c6S78WF7PHn6ZWc=
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4tM9iF6C47MFxbcY3nw3E1Cs32A=
+		BkJhTIyYR6729UteHik4FVflmQg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1185,7 +1185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ja4rXFA1EXgLWdw9rXUFybWmw3g9SHQS04jcgAc5vkM=
+			/IJmVL7sKIWcVVJG7u7OJDcL5VP5Y/c+tfTy/hA3l4s=
 			</data>
 		</dict>
 		<key>Modules/KogoTvs.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1213,7 +1213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SR2IRgwN39DPGy7knJJ/qt90PihPfeU7StEjTksz2gs=
+			XvAW4vstc++VenJ6Yb+4yW3KrHIj4DaNxsGo0yAm1N8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
