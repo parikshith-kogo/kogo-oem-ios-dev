@@ -1,16 +1,16 @@
 #
-#  Be sure to run `pod spec lint KogoForOem.podspec' to ensure this is a valid spec
+#  Be sure to run `pod spec lint KogoTvs.podspec' to ensure this is a valid spec
 #
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "TvsSdk"
+  spec.name         = "KogoTvs"
   spec.version      = "0.0.2"
   spec.summary      = "KOGO SDK for OEM partners"
 
   spec.description  = 'KOGO iOS SDK for OEM partners. For development purpose only'
 
-  spec.homepage     = "https://github.com/parikshith-kogo/kogo-oem-ios-dev"
+  spec.homepage     = "https://github.com/parikshith-kogo/kogo-tvs-ios"
 
   spec.license      = "MIT"
 
@@ -19,14 +19,14 @@ Pod::Spec.new do |spec|
   # spec.platform     = :ios, '12.0'
   spec.ios.deployment_target = "12.0"
 
-  spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git" }
-  # spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-oem-ios-dev.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-tvs-ios.git" }
+  # spec.source       = { :git => "https://github.com/parikshith-kogo/kogo-tvs-ios.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "Headers/*.{h,m}", "#{spec.name}.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
+  # spec.source_files  = "Headers/*.{h,m}", "KogoTvs.xcframework/ios-arm64/KogoForOem.framework/Headers/*.{h,m}"
 
-  spec.framework  = "#{spec.name}"
+  spec.framework  = "KogoTvs"
 
-  spec.vendored_frameworks = '#{spec.name}.xcframework'
+  spec.vendored_frameworks = 'KogoTvs.xcframework'
 
   spec.dependency 'Apollo', '1.15.0'
   spec.dependency 'Apollo/SQLite', '1.15.0'

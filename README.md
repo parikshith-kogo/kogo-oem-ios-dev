@@ -1,25 +1,23 @@
-# kogo-oem-ios-dev
+# kogo-tvs-ios
 
 **_NOTE:_** App will run on iOS Device Only
 
 ### What is this repository for? ###
-Development SDK for KOGO OEM framework
+SDK for KOGO OEM framework
 
 * Quick summary & initialization guide
 * Version : 0.0.1
 
 # Release Notes # 
-* Version 0.0.1 - Initial deployment
+* Version 3.0.0 - Initial deployment
 
 ### How do I get set up? ###
 
 ### Follow these steps to add the SDK to your project –
 *Step-1: Add the following command in your podfile
 
-For Dev envorinment
-
 ```
-  pod 'KogoForOem', :git => 'https://github.com/parikshith-kogo/kogo-oem-ios-dev.git'
+  pod 'KogoForOem', :git => 'https://github.com/parikshith-kogo/kogo-tvs-ios.git'
 ```
 
 *Step-2: Add the following in your plist
