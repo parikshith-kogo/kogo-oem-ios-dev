@@ -1,33 +1,39 @@
 # kogo-tvs-ios
 
-**_NOTE:_** App will run on iOS Device Only
+**_NOTE:_** All features of the app are to be checked on on iOS Device Only
 
 ### What is this repository for? ###
-SDK for KOGO OEM framework
+Development SDK for KOGO OEM framework and KOGO App
 
 * Quick summary & initialization guide
-* Version : 0.0.1
-
-# Release Notes # 
-* Version 3.0.0 - Initial deployment
+* Version : 3.0.1
 
 ### How do I get set up? ###
 
 ### Follow these steps to add the SDK to your project –
-*Step-1: Add the following command in your podfile
+*Step-1: Add the following lines of code in your podfile
 
 ```
   pod 'KogoForOem', :git => 'https://github.com/parikshith-kogo/kogo-tvs-ios.git'
+```
+
+Add below code at the very end of your podfile
+```
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
+        end
+    end
+end
 ```
 
 *Step-2: Add the following in your plist
 ```
     <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
     <string>Your location is used to personalize content.</string>
-    <key>NSLocationAlwaysUsageDescription</key>
-    <string>We need your location information to provide information of nearby known location and create your logs for creating timeline at Web portal.</string>
-    <key>NSLocationWhenInUseUsageDescription</key>
-    <string>We need your location information to provide information of nearby known location and create your logs for creating timeline at Web portal.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>KOGO needs device motion access for accuracy in tracking your trip when started</string>
 ```
 
 # For generating JWT_TOKEN
