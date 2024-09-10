@@ -1,0 +1,6 @@
+framework module KogoTvs {
+  umbrella header "KogoTvs.h"
+  export *
+
+  module * { export * }
+}
