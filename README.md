@@ -14,7 +14,7 @@ Development SDK for KOGO OEM framework and KOGO App
 *Step-1: Add the following lines of code in your podfile
 
 ```
-  pod 'KogoForOem', :git => 'https://github.com/parikshith-kogo/kogo-tvs-ios.git'
+  pod 'KogoTvs', :git => 'https://github.com/parikshith-kogo/kogo-tvs-ios.git'
 ```
 
 Add below code at the very end of your podfile
@@ -58,7 +58,7 @@ Add below code to initialize in AppDelegate.swift
 
 step-1: Import header
 ```
-import KogoForOem
+import KogoTvs
 ```
 
 Step-2: Goto `didFinishLaunchingWithOptions` and add the following code `Kogo.shared.configureWith("YOUR_JWT_TOKEN_HERE")`
@@ -76,14 +76,16 @@ From the place you want to open `KogoForOem`, add the following code.
 
 step-1: Import header
 ```
-import KogoForOem
+import KogoTvs
 ```
 
-Step-2: Goto `ViewController Class` where you want to open `KogoForOem`.
+Step-2: Goto `ViewController Class` where you want to open `KogoTvs`.
 Add the following code. Below code takes `UINavigationController` as argument.
 ```
 DispatchQueue.main.async {
-    Kogo.shared.openCommunityViewIn(self.navigationController)
+     Kogo.openCommunityViewIn(self.navigationController, with: "YOUR_JWT_TOKEN_HERE", onCompletion: {
+            print("On Back clicked")
+        })
 }
 ```
 
